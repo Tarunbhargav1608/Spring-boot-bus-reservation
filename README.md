@@ -1,12 +1,6 @@
 # RedBus - Bus Reservation System
 
 This is a Bus Booking application built using Spring Boot, Hibernate, PostgreSQL, Spring Security, thymeleaf and JPA. The application allows users to find buses from a source to a destination and book seats in those buses.
-### Team Members
-- Himanshu Pandey
-- Saurabh Pandey
-- Tarun Bhargav
-- Ishpreet 
-- Aditi
 
 ### Technology used
 - Spring boot
